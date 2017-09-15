@@ -5,10 +5,11 @@
 	$ laravel new PROJECT
 ```
 
-- Switch into new PROJECT, create Authentication layer and install bulma and font-awesome
+- Switch into new PROJECT, create Authentication layer, remove bootstrap-sass and install bulma and font-awesome
 ```
 	$ cd PROJECT
 	$ php artisan make:auth
+	$ npm uninstall --save bootstrap-sass
 	$ npm install --save bulma font-awesome
 ```
 
