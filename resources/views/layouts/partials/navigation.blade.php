@@ -1,4 +1,4 @@
-<nav class="navbar ">
+<nav class="navbar is-primary">
 	<!-- Branding Image -->
 	<div class="navbar-brand">
 	   	<a class="navbar-item" href="{{ url('/') }}">

@@ -2,7 +2,7 @@
 
 @section('content')
     <section class="section">
-        <div class="container">
+        <div class="container is-fluid">
 
             <h1 class="title">WELCOME</h1>
 
